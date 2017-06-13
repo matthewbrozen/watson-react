@@ -1,0 +1,4 @@
+name: genesiswatson
+command: npm start
+services:
+  - my-discovery-service
